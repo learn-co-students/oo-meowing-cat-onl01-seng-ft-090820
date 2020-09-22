@@ -1,6 +1,6 @@
 class Cat
   
-  attr_accessor :name  #getter/reader and setter/writer methods combined 
+  attr_accessor :name 
 
   def meow
     puts "meow!"
